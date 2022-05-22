@@ -47,7 +47,6 @@ int main() {
 				arr[i][j] = sum;
 			}
 		}
-		// outputArr(arr, n, m);
 		int ans = arr[i2][j2];
 
 
